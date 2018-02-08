@@ -1,0 +1,5 @@
+1.  Install pip ( sometimes you might have already in it)
+
+2. pip install jedi rope flake8 elpy 
+
+Note: These are Python related package , Not with emcas 
